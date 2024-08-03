@@ -217,11 +217,11 @@ button:hover {
 .current-time {
     font-weight: 300;
     color: white;
-    font-size: 42px;
+    font-size: 58px;
 }
 
 .last-week {
     color: var(--Pale_Blue);
-    font-size: 19px;
+    font-size: 16px;
     font-weight: 400;
 }

@@ -10,7 +10,7 @@
     }
 
     .box {
-        height: 270px;
+        height: 250px;
     }
 
     .author {
@@ -18,10 +18,10 @@
     }
 
     .personal {
-        height: 385px;
+        height: 355px;
         flex-direction: column;
         align-items: flex-start;
-        gap: 50px;
+        gap: 40px;
     }
 
     .name h1 {
@@ -62,7 +62,7 @@
 
     .data {
         gap: 35px;
-        height: 230px;
+        height: 210px;
     }
 
     .time {
